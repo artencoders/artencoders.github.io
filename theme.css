@@ -163,7 +163,7 @@ nav ul li::marker{
 a:not(.nav-link):not(.homepage-link) {
   font-weight: bold;
   text-decoration: none;
-  color:rgb(109, 182, 192);
+  color:rgb(114, 164, 170);
   /*color:rgb(110, 2, 2)*/
 }
 
